@@ -61,14 +61,14 @@ Olá! Sou o **Arthur Assunção**, Desenvolvedor Front-End dedicado a criar expe
     <td width="50%" valign="top">
       <h3>🏀 NBA Website</h3>
       <p>Aplicação interativa desenvolvida com foco no universo do basquetebol, destacando dados e design moderno.</p>
-      <p><strong>Tecnologias:</strong> HTML5, CSS3, JavaScript</p>
+      <p><strong>Tecnologias:</strong> HTML5 e CSS3</p>
       <a href="https://arthz933.github.io/nba-website/" target="_blank">
         <img src="https://img.shields.io/badge/Acessar_Projeto-0052CC?style=for-the-badge&logo=githubpages&logoColor=white" alt="Ver Projeto" />
       </a>
     </td>
     <td width="50%" valign="top">
       <h3>🍽️️ Rubaiyat's Place</h3>
-      <p>Projeto de interface web elegante e responsiva para o setor gastronómico.</p>
+      <p>Projeto de interface web elegante e responsiva para controle de tarefas</p>
       <p><strong>Tecnologias:</strong> HTML5, CSS3, JavaScript</p>
       <a href="https://arthz933.github.io/rubaiyat-s-place2/" target="_blank">
         <img src="https://img.shields.io/badge/Acessar_Projeto-0052CC?style=for-the-badge&logo=githubpages&logoColor=white" alt="Ver Projeto" />
