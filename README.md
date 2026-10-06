@@ -37,21 +37,17 @@ Olá! Sou o **Arthur Assunção**, Desenvolvedor Front-End dedicado a criar expe
 ## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" style="margin: 0 15px; text-decoration: none; display: inline-block; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5" /><br/>
-    <sub><b>HTML5</b></sub>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" style="margin: 0 12px; display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5" title="HTML5" />
   </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" style="margin: 0 15px; text-decoration: none; display: inline-block; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3" /><br/>
-    <sub><b>CSS3</b></sub>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" style="margin: 0 12px; display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3" title="CSS3" />
   </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" style="margin: 0 15px; text-decoration: none; display: inline-block; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript" /><br/>
-    <sub><b>JavaScript</b></sub>
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" style="margin: 0 12px; display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript" title="JavaScript" />
   </a>
-  <a href="https://www.mysql.com/" target="_blank" style="margin: 0 15px; text-decoration: none; display: inline-block; text-align: center;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL" /><br/>
-    <sub><b>MySQL</b></sub>
+  <a href="https://www.mysql.com/" target="_blank" style="margin: 0 12px; display: inline-block;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL" title="MySQL" />
   </a>
 </div>
 
@@ -66,10 +62,4 @@ Olá! Sou o **Arthur Assunção**, Desenvolvedor Front-End dedicado a criar expe
       <h3>🏀 NBA Website</h3>
       <p>Aplicação interativa desenvolvida com foco no universo do basquetebol, destacando dados e design moderno.</p>
       <p><strong>Tecnologias:</strong> HTML5, CSS3, JavaScript</p>
-      <a href="https://arthz933.github.io/nba-website/" target="_blank">
-        <img src="https://img.shields.io/badge/Acessar_Projeto-0052CC?style=for-the-badge&logo=githubpages&logoColor=white" alt="Ver Projeto" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🍽️ Rubaiyat's Place</h3>
-      <p>
+      <a href="https://arthz933.github.io/nba-website/" target="_
