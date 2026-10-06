@@ -37,17 +37,21 @@ Olá! Sou o **Arthur Assunção**, Desenvolvedor Front-End dedicado a criar expe
 ## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" style="margin: 0 12px; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5" title="HTML5" />
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="_blank" style="margin: 0 15px; text-decoration: none; display: inline-block; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="55" height="55" alt="HTML5" /><br/>
+    <sub><b>HTML5</b></sub>
   </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" style="margin: 0 12px; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3" title="CSS3" />
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="_blank" style="margin: 0 15px; text-decoration: none; display: inline-block; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="55" height="55" alt="CSS3" /><br/>
+    <sub><b>CSS3</b></sub>
   </a>
-  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" style="margin: 0 12px; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript" title="JavaScript" />
+  <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank" style="margin: 0 15px; text-decoration: none; display: inline-block; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="55" height="55" alt="JavaScript" /><br/>
+    <sub><b>JavaScript</b></sub>
   </a>
-  <a href="https://www.mysql.com/" target="_blank" style="margin: 0 12px; display: inline-block;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL" title="MySQL" />
+  <a href="https://www.mysql.com/" target="_blank" style="margin: 0 15px; text-decoration: none; display: inline-block; text-align: center;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="55" height="55" alt="MySQL" /><br/>
+    <sub><b>MySQL</b></sub>
   </a>
 </div>
 
@@ -62,4 +66,59 @@ Olá! Sou o **Arthur Assunção**, Desenvolvedor Front-End dedicado a criar expe
       <h3>🏀 NBA Website</h3>
       <p>Aplicação interativa desenvolvida com foco no universo do basquetebol, destacando dados e design moderno.</p>
       <p><strong>Tecnologias:</strong> HTML5, CSS3, JavaScript</p>
-      <a href="https://arthz933.github.io/nba-website/" target="_
+      <a href="https://arthz933.github.io/nba-website/" target="_blank">
+        <img src="https://img.shields.io/badge/Acessar_Projeto-0052CC?style=for-the-badge&logo=githubpages&logoColor=white" alt="Ver Projeto" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🍽️ Rubaiyat's Place</h3>
+      <p>Projeto de interface web elegante e responsiva para o setor gastronómico.</p>
+      <p><strong>Tecnologias:</strong> HTML5, CSS3, JavaScript</p>
+      <a href="https://arthz933.github.io/rubaiyat-s-place2/" target="_blank">
+        <img src="https://img.shields.io/badge/Acessar_Projeto-0052CC?style=for-the-badge&logo=githubpages&logoColor=white" alt="Ver Projeto" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+<!-- GitHub Trophies -->
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophies.vercel.app/?username=arthz933&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+<br />
+
+<!-- GitHub Stats & Languages -->
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthz933&show_icons=true&theme=dark&bg_color=0d1117&title_color=0066FF&icon_color=0066FF&text_color=ffffff&border_color=003366&hide_border=false" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthz933&layout=compact&theme=dark&bg_color=0d1117&title_color=0066FF&text_color=ffffff&border_color=003366&hide_border=false" alt="Top Languages" />
+</div>
+
+<br />
+
+<!-- Streak & Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthz933&theme=dark&background=0d1117&ring=0066FF&fire=0066FF&currStreakNum=ffffff&sidenums=ffffff&date=003366&border=003366&hide_border=false" alt="GitHub Streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arthz933&bg_color=0d1117&color=0066FF&line=0052CC&point=ffffff&area=true&hide_border=false&border_color=003366" width="100%" alt="Activity Graph" />
+</div>
+
+<br />
+
+<!-- Rodapé Personalizado -->
+---
+
+<div align="center">
+  <p>Desenvolvido com 💙 por <strong>Arthur Assunção</strong></p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0052CC&height=100&section=footer" width="100%" alt="Footer" />
+</div>
