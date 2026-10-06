@@ -1,16 +1,16 @@
 <div align="center">
 
-  
+  <!-- Banner Personalizado -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0052CC&height=220&section=header&text=Arthur%20Assunção&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" alt="Banner Arthur Assunção" />
 
-  
+  <!-- Typing Animation -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0066FF&center=true&vCenter=true&width=500&lines=Desenvolvedor+Front-End;Transformando+ideias+em+c%C3%B3digo;Focado+em+interfaces+modernas" alt="Typing Animation" />
   </a>
 
   <br />
 
-  
+  <!-- Redes Sociais -->
   <a href="https://www.linkedin.com/in/arthur-assunção-8a187b313?utm_source=share_via&utm_content=profile&utm_medium=member_android" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0052CC?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -22,19 +22,19 @@
 
 <br />
 
-
+<!-- Sobre Mim -->
 ## 👨‍💻 Sobre Mim
 
 Olá! Sou o **Arthur Assunção**, Desenvolvedor Front-End dedicado a criar experiências web modernas, responsivas e intuitivas. Tenho foco na construção de interfaces limpas, combinando código estruturado e design funcional.
 
-- **Cargo:** Desenvolvedor Front-End
-- **Estilo:** Minimalista e focado na usabilidade
-- **Objetivo:** Continuar a aprimorar minhas habilidades e construir projetos de alto impacto
+- 💼 **Cargo:** Desenvolvedor Front-End
+- 🎨 **Estilo:** Minimalista e focado na usabilidade
+- 🎯 **Objetivo:** Continuar a aprimorar minhas habilidades e construir projetos de alto impacto
 
 <br />
 
-
-Tecnologias & Ferramentas
+<!-- Tecnologias -->
+## 🛠️ Tecnologias & Ferramentas
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML5-0052CC?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -45,8 +45,8 @@ Tecnologias & Ferramentas
 
 <br />
 
-
-Projetos em Destaque
+<!-- Projetos em Cards -->
+## 🚀 Projetos em Destaque
 
 <table>
   <tr>
@@ -71,8 +71,8 @@ Projetos em Destaque
 
 <br />
 
-
-GitHub Trophies
+<!-- GitHub Trophies -->
+## 🏆 GitHub Trophies
 
 <div align="center">
   <img src="https://github-profile-trophies.vercel.app/?username=arthz933&theme=darkhub&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
@@ -80,8 +80,8 @@ GitHub Trophies
 
 <br />
 
-
-Estatísticas do GitHub
+<!-- GitHub Stats & Languages -->
+## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthz933&show_icons=true&theme=dark&bg_color=0d1117&title_color=0066FF&icon_color=0066FF&text_color=ffffff&border_color=003366&hide_border=false" alt="GitHub Stats" />
@@ -90,7 +90,7 @@ Estatísticas do GitHub
 
 <br />
 
-
+<!-- Streak & Activity Graph -->
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arthz933&theme=dark&background=0d1117&ring=0066FF&fire=0066FF&currStreakNum=ffffff&sidenums=ffffff&date=003366&border=003366&hide_border=false" alt="GitHub Streak" />
 </div>
@@ -103,8 +103,8 @@ Estatísticas do GitHub
 
 <br />
 
-
-Snake Contribution
+<!-- Snake Contribution Game -->
+## 🐍 Snake Contribution
 
 <div align="center">
   <picture>
@@ -116,7 +116,8 @@ Snake Contribution
 
 <br />
 
-
+<!-- Rodapé Personalizado -->
+---
 
 <div align="center">
   <p>Desenvolvido com 💙 por <strong>Arthur Assunção</strong></p>
